@@ -15,3 +15,8 @@ docs:
     source: auto-1744322567304-7555.wyg
     location: /Welcome
     title: Welcome
+  doc1744322700851:
+    type: jodit
+    source: auto-1744322700809-8579.wyg
+    location: /Архитектура/Welcome
+    title: Welcome Hello
